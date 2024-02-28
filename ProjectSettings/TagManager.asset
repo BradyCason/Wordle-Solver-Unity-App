@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Active Letter Button
+  - Non-Active Letter Button
+  - Active Letter Button 1
+  - Active Letter Button 2
+  - Active Letter Button 3
+  - Active Letter Button 4
+  - Active Letter Button 5
+  - Active Word Option 1
+  - Active Word Option 2
+  - Active Word Option 3
+  - Non-Active Word Option
+  - Canvas
+  - Active Word Options
+  - Choose Next Word Text
+  - Guess Input 1
+  - Guess Input 2
+  - Guess Input 3
+  - Guess Input 4
+  - Guess Input 5
+  - Guess Input 6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Top
+    uniqueID: 2086749933
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
